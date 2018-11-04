@@ -1,0 +1,29 @@
+Modifica il file nella cartella config/config.ini per modificare il percorso in cui salvare i video.
+
+Esempio:
+
+[Download Path]
+Path = C:/Users/Public/Videos/   ###Questo percorso salverai i video nella cartella C:\Utenti\Pubblica\Video Pubblici\
+
+oppure
+
+[Download Path]
+Path = video-saved/ ###Con questo percorso salverai i video nella  cartella video-saved all'interno della cartella del programma.
+
+oppure
+
+[Download Path]
+Path = C:/Users/Gianni/Videos/ ### Salvi i video nella cartella Video di Windows
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Non si possono mettere cartelle del tipo
+
+[Download Path]
+Path = C:/Cartella-creata-nel-disco-c/ ###Serve un'autorizzazione amministratore per poter avviare il processo
+
+
+
+Istruzioni:
+Esegui il file YT-Downloader.rb
+Segui i passaggi.
